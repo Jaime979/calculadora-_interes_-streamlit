@@ -1,5 +1,7 @@
 # Calculadora de Interés Simple y Compuesto
 
+Elaborado por: Jaime Sesén
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
